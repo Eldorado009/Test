@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C758B57D-650A-4901-B7D3-E4169255D067}|Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiproje\\infrastructure\\parkcinema.persistance\\implementations\\repositories\\ientityrepository\\testreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C758B57D-650A-4901-B7D3-E4169255D067}|Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj|solutionrelative:infrastructure\\parkcinema.persistance\\implementations\\repositories\\ientityrepository\\testreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C758B57D-650A-4901-B7D3-E4169255D067}|Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiproje\\infrastructure\\parkcinema.persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C758B57D-650A-4901-B7D3-E4169255D067}|Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj|solutionrelative:infrastructure\\parkcinema.persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF9F442-B723-4F9D-92C6-6B843FFB90EC}|Presentation\\ParkCinema.API\\ParkCinema.API.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiproje\\presentation\\parkcinema.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AF9F442-B723-4F9D-92C6-6B843FFB90EC}|Presentation\\ParkCinema.API\\ParkCinema.API.csproj|solutionrelative:presentation\\parkcinema.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF9F442-B723-4F9D-92C6-6B843FFB90EC}|Presentation\\ParkCinema.API\\ParkCinema.API.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiproje\\presentation\\parkcinema.api\\controllers\\testscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF9F442-B723-4F9D-92C6-6B843FFB90EC}|Presentation\\ParkCinema.API\\ParkCinema.API.csproj|solutionrelative:presentation\\parkcinema.api\\controllers\\testscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4061B7E8-60BA-4522-95BA-4DCDD66FBF18}|Core\\ParkCinema.Application\\ParkCinema.Application.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiproje\\core\\parkcinema.application\\abstraction\\services\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4061B7E8-60BA-4522-95BA-4DCDD66FBF18}|Core\\ParkCinema.Application\\ParkCinema.Application.csproj|solutionrelative:core\\parkcinema.application\\abstraction\\services\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C758B57D-650A-4901-B7D3-E4169255D067}|Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiproje\\infrastructure\\parkcinema.persistance\\implementations\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C758B57D-650A-4901-B7D3-E4169255D067}|Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj|solutionrelative:infrastructure\\parkcinema.persistance\\implementations\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C758B57D-650A-4901-B7D3-E4169255D067}|Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiproje\\infrastructure\\parkcinema.persistance\\extensionsmethods\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C758B57D-650A-4901-B7D3-E4169255D067}|Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj|solutionrelative:infrastructure\\parkcinema.persistance\\extensionsmethods\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4061B7E8-60BA-4522-95BA-4DCDD66FBF18}|Core\\ParkCinema.Application\\ParkCinema.Application.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiproje\\core\\parkcinema.application\\abstraction\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4061B7E8-60BA-4522-95BA-4DCDD66FBF18}|Core\\ParkCinema.Application\\ParkCinema.Application.csproj|solutionrelative:core\\parkcinema.application\\abstraction\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4061B7E8-60BA-4522-95BA-4DCDD66FBF18}|Core\\ParkCinema.Application\\ParkCinema.Application.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiproje\\core\\parkcinema.application\\abstraction\\repositories\\ientityrepository\\itestwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4061B7E8-60BA-4522-95BA-4DCDD66FBF18}|Core\\ParkCinema.Application\\ParkCinema.Application.csproj|solutionrelative:core\\parkcinema.application\\abstraction\\repositories\\ientityrepository\\itestwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F137DA49-F186-4137-9807-BA8EB857C4A7}|Core\\ParkCinema.Domain\\ParkCinema.Domain.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiproje\\core\\parkcinema.domain\\entities\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F137DA49-F186-4137-9807-BA8EB857C4A7}|Core\\ParkCinema.Domain\\ParkCinema.Domain.csproj|solutionrelative:core\\parkcinema.domain\\entities\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4061B7E8-60BA-4522-95BA-4DCDD66FBF18}|Core\\ParkCinema.Application\\ParkCinema.Application.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiproje\\core\\parkcinema.application\\abstraction\\repositories\\ientityrepository\\itestreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4061B7E8-60BA-4522-95BA-4DCDD66FBF18}|Core\\ParkCinema.Application\\ParkCinema.Application.csproj|solutionrelative:core\\parkcinema.application\\abstraction\\repositories\\ientityrepository\\itestreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C758B57D-650A-4901-B7D3-E4169255D067}|Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiproje\\infrastructure\\parkcinema.persistance\\implementations\\repositories\\ientityrepository\\testwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C758B57D-650A-4901-B7D3-E4169255D067}|Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj|solutionrelative:infrastructure\\parkcinema.persistance\\implementations\\repositories\\ientityrepository\\testwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C758B57D-650A-4901-B7D3-E4169255D067}|Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiproje\\infrastructure\\parkcinema.persistance\\implementations\\services\\sliderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C758B57D-650A-4901-B7D3-E4169255D067}|Infrastructure\\ParkCinema.Persistance\\ParkCinema.Persistance.csproj|solutionrelative:infrastructure\\parkcinema.persistance\\implementations\\services\\sliderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4061B7E8-60BA-4522-95BA-4DCDD66FBF18}|Core\\ParkCinema.Application\\ParkCinema.Application.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiproje\\core\\parkcinema.application\\abstraction\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4061B7E8-60BA-4522-95BA-4DCDD66FBF18}|Core\\ParkCinema.Application\\ParkCinema.Application.csproj|solutionrelative:core\\parkcinema.application\\abstraction\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 693,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ParkCinema.Persistance\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\ParkCinema.Persistance\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA0wBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:07:09.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Core\\ParkCinema.Domain\\Entities\\Test.cs",
+              "RelativeDocumentMoniker": "Core\\ParkCinema.Domain\\Entities\\Test.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Core\\ParkCinema.Domain\\Entities\\Test.cs",
+              "RelativeToolTip": "Core\\ParkCinema.Domain\\Entities\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:28:17.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Presentation\\ParkCinema.API\\Controllers\\TestsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\ParkCinema.API\\Controllers\\TestsController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Presentation\\ParkCinema.API\\Controllers\\TestsController.cs",
+              "RelativeToolTip": "Presentation\\ParkCinema.API\\Controllers\\TestsController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:48:36.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\Implementations\\Services\\TestService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ParkCinema.Persistance\\Implementations\\Services\\TestService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\Implementations\\Services\\TestService.cs",
+              "RelativeToolTip": "Infrastructure\\ParkCinema.Persistance\\Implementations\\Services\\TestService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAvwC8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:56:31.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITestService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Core\\ParkCinema.Application\\Abstraction\\Services\\ITestService.cs",
+              "RelativeDocumentMoniker": "Core\\ParkCinema.Application\\Abstraction\\Services\\ITestService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Core\\ParkCinema.Application\\Abstraction\\Services\\ITestService.cs",
+              "RelativeToolTip": "Core\\ParkCinema.Application\\Abstraction\\Services\\ITestService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAewAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:45:13.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\Implementations\\Repositories\\IEntityRepository\\TestReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ParkCinema.Persistance\\Implementations\\Repositories\\IEntityRepository\\TestReadRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\Implementations\\Repositories\\IEntityRepository\\TestReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\ParkCinema.Persistance\\Implementations\\Repositories\\IEntityRepository\\TestReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:38:28.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITestWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Core\\ParkCinema.Application\\Abstraction\\Repositories\\IEntityRepository\\ITestWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ParkCinema.Application\\Abstraction\\Repositories\\IEntityRepository\\ITestWriteRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Core\\ParkCinema.Application\\Abstraction\\Repositories\\IEntityRepository\\ITestWriteRepository.cs",
+              "RelativeToolTip": "Core\\ParkCinema.Application\\Abstraction\\Repositories\\IEntityRepository\\ITestWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:36:09.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Core\\ParkCinema.Application\\Abstraction\\Repositories\\IWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ParkCinema.Application\\Abstraction\\Repositories\\IWriteRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Core\\ParkCinema.Application\\Abstraction\\Repositories\\IWriteRepository.cs",
+              "RelativeToolTip": "Core\\ParkCinema.Application\\Abstraction\\Repositories\\IWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:25:49.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Presentation\\ParkCinema.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\ParkCinema.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Presentation\\ParkCinema.API\\appsettings.json",
+              "RelativeToolTip": "Presentation\\ParkCinema.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T10:17:39.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITestReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Core\\ParkCinema.Application\\Abstraction\\Repositories\\IEntityRepository\\ITestReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ParkCinema.Application\\Abstraction\\Repositories\\IEntityRepository\\ITestReadRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Core\\ParkCinema.Application\\Abstraction\\Repositories\\IEntityRepository\\ITestReadRepository.cs",
+              "RelativeToolTip": "Core\\ParkCinema.Application\\Abstraction\\Repositories\\IEntityRepository\\ITestReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:29:25.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\ExtensionsMethods\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ParkCinema.Persistance\\ExtensionsMethods\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\ExtensionsMethods\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\ParkCinema.Persistance\\ExtensionsMethods\\ServiceRegistration.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwEAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:17:39.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\Implementations\\Repositories\\IEntityRepository\\TestWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ParkCinema.Persistance\\Implementations\\Repositories\\IEntityRepository\\TestWriteRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\Implementations\\Repositories\\IEntityRepository\\TestWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\ParkCinema.Persistance\\Implementations\\Repositories\\IEntityRepository\\TestWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:37:24.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SliderServices.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\Implementations\\Services\\SliderServices.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ParkCinema.Persistance\\Implementations\\Services\\SliderServices.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Infrastructure\\ParkCinema.Persistance\\Implementations\\Services\\SliderServices.cs",
+              "RelativeToolTip": "Infrastructure\\ParkCinema.Persistance\\Implementations\\Services\\SliderServices.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:40:15.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Core\\ParkCinema.Application\\Abstraction\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ParkCinema.Application\\Abstraction\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiProje\\Core\\ParkCinema.Application\\Abstraction\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Core\\ParkCinema.Application\\Abstraction\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:25:05.668Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
